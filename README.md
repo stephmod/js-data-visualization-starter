@@ -1,1 +1,1 @@
-# JS Data Visualization Starter
+# Data Visualization Starter
